@@ -1,1 +1,3 @@
 # Cotton-Disease-Prediction
+
+**Goal:**
