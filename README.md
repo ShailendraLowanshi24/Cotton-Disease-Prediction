@@ -1,5 +1,4 @@
 # Cotton-Disease-Prediction
-
 **Goal:** The Goal of the Project is to identity Cotton Plant Disease and Predict wheather it's 'Fresh Plant' or 'Diseased Plant'.
 
 I have used Convolution Neural Network[CNN] & Transfer Learning 'Inception V3' Techniques to Predict the Image Classification Model.
